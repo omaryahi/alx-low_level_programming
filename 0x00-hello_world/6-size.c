@@ -1,2 +1,2 @@
 #include <stdio.h>
-int main(void) { printf("Size of char: %zu byte(s)\nSize of int: %zu byte(s)\nSize of long int: %zu byte(s)\nSize of long long: %zu byte(s)\nSize of float: %zu byte(s)\n", sizeof(char), sizeof(int), sizeof(long), sizeof(long long), sizeof(float)); return 0; }
+int main(void) { printf("Size of a char: %zu byte(s)\nSize of a int: %zu byte(s)\nSize of a long int: %zu byte(s)\nSize of a long long: %zu byte(s)\nSize of a float: %zu byte(s)\n", sizeof(char), sizeof(int), sizeof(long), sizeof(long long), sizeof(float)); return 0; }
